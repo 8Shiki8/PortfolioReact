@@ -1,0 +1,34 @@
+:root {
+    --bg-color: #2e2b2b;
+    --title-color1: #ffffff;
+    --title-color2: #3b94e7;
+    --font-color: white;
+    --header-color: #0c1d36;
+    --modo-help: "light mode";
+
+
+}
+
+.textNormal {
+
+    font-family: 'Raleway', sans-serif !important;
+}
+
+.textTitle {
+    font-family: "Poppins", sans-serif !important;
+    font-weight: bold !important;
+}
+
+body {
+    background-color: #252525;
+    color: var(--font-color);
+   
+
+}
+
+
+
+* {
+    box-sizing: border-box;
+}
+
